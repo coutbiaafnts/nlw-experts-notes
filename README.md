@@ -31,6 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - RadixUI
 - Date-FNS
 - Lucide React
+- Sonner Toast
 - Git e Github
 - Figma
 
